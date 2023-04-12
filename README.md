@@ -1,6 +1,7 @@
 # atcoder
 
-Atcoder の環境構築をしてくれるスクリプトです。(自分用)
+Atcoder の環境構築をしてくれるスクリプトです。以下を参考にしました。ありがとうございます。
+- https://github.com/abe-tetsu/atcoder
 
 ## 使い方
 
